@@ -1,8 +1,10 @@
 # Tushar Shukla
 
-**DevOps / MLOps / AI/ML Platform Engineer**
+**DevOps / MLOps / AI/ML Platform Engineer | Freelance DevOps, Cloud & ML Trainer**
 
 DevOps & MLOps Engineer with 6+ years of experience designing scalable cloud-native platforms across Azure and AWS. Specialized in Kubernetes, Infrastructure as Code, CI/CD automation, ML lifecycle management, production AI/ML deployment and observability.
+
+Also working as a **Freelance DevOps, Cloud and ML Trainer**, delivering practical learning sessions and hands-on guidance across DevOps, cloud, MLOps and AI/ML topics.
 
 ## Core Competencies
 
@@ -29,6 +31,16 @@ DevOps & MLOps Engineer with 6+ years of experience designing scalable cloud-nat
 - Engineered New Relic APM/Synthetics and Terraform-based observability for application and ML health monitoring.
 - Analyzed production telemetry and failures to reduce false positives and improve incident visibility.
 - Developed Python automation and REST APIs for ML platform management.
+
+## Freelance Training & Consulting
+
+### Freelance DevOps, Cloud & ML Trainer
+
+- Deliver practical corporate and individual training across **DevOps, Cloud, MLOps and AI/ML**.
+- Conduct hands-on sessions covering **Azure, AWS, Kubernetes, Docker, Terraform, CI/CD and automation**.
+- Train learners on **Python, machine learning fundamentals, ML pipelines and MLOps tools** including MLflow, Kubeflow, DVC and Airflow.
+- Provide guidance on **production ML deployment, model monitoring, observability and cloud-native architecture**.
+- Help engineers move from traditional DevOps into **MLOps and AI/ML platform engineering** through project-oriented learning.
 
 ## Selected MLOps Work
 
