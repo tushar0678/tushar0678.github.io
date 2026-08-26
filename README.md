@@ -6,17 +6,20 @@ DevOps & MLOps Engineer with 6+ years of experience designing scalable cloud-nat
 
 Also working as a **Freelance DevOps, Cloud and ML Trainer**, delivering practical learning sessions and hands-on guidance across DevOps, cloud, MLOps and AI/ML topics.
 
-## Core Competencies
+## Technologies and Tools
 
-- **Cloud:** Azure, AWS
-- **DevOps & IaC:** Docker, Kubernetes, Helm, Terraform, Ansible
-- **CI/CD:** Azure DevOps, GitHub Actions, Jenkins
-- **MLOps:** Kubeflow, MLflow, DVC, Airflow, model deployment, experiment tracking, drift monitoring
-- **AI & Data:** Python, Pandas, NumPy, Scikit-learn, NLP, deep learning basics
+- **MLOps:** TensorFlow, PyTorch, MLflow, Kubeflow, Metaflow, DVC
+- **Cloud:** AWS, Azure
+- **Containerization:** Docker, Kubernetes, ECS, EKS, AKS, Helm
+- **CI/CD:** Azure DevOps CI/CD, Jenkins, GitHub Actions, Bamboo
+- **IaC:** Terraform
+- **Monitoring:** Prometheus, Grafana, New Relic, ELK Stack, Datadog
+- **Scripting:** Shell, Python, PowerShell
+- **Configuration Management:** Ansible
+- **Programming:** Java, Python
+- **Version Control:** Git, GitHub, GitLab
+- **AI & Data:** Pandas, NumPy, Scikit-learn, NLP, Deep Learning
 - **GenAI:** RAG pipelines, prompt engineering, LangChain/LlamaIndex, vector databases, embeddings
-- **Observability:** New Relic, Prometheus, Grafana; model latency, throughput, drift and degradation monitoring
-- **Data:** SQL, MongoDB, Apache Spark
-- **Automation:** Python, Bash, PowerShell
 
 ## Current Role
 
