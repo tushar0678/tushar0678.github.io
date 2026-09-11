@@ -35,45 +35,6 @@
     });
   }
 
-  function fixHeroLayout() {
-    var style = document.getElementById('hero-layout-fix');
-    if (!style) {
-      style = document.createElement('style');
-      style.id = 'hero-layout-fix';
-      document.head.appendChild(style);
-    }
-
-    style.textContent = `
-      /* Keep the hero copy and engineering panel in separate visual lanes. */
-      .hero-section { padding-left: 6%; padding-right: 4%; }
-      .hero-container { width: 58%; max-width: 760px; padding-right: 18px; }
-      .hero-section h1 {
-        white-space: nowrap;
-        font-size: clamp(42px, 3vw, 50px);
-        letter-spacing: -2.2px;
-        max-width: 100%;
-      }
-      .hero-section h1 span { white-space: nowrap; }
-      .hero-section:after {
-        right: 3.5%;
-        width: 35%;
-        max-width: 500px;
-        min-width: 360px;
-        height: 400px;
-        z-index: 1;
-      }
-      @media (max-width: 1199px) {
-        .hero-container { width: 56%; max-width: 700px; }
-        .hero-section h1 { font-size: clamp(40px, 3.6vw, 48px); }
-        .hero-section:after { right: 3%; width: 37%; min-width: 330px; }
-      }
-      @media (max-width: 900px) {
-        .hero-container { width: 100%; max-width: none; padding-right: 0; }
-        .hero-section h1 { white-space: normal; letter-spacing: -1px; }
-      }
-    `;
-  }
-
   $(document).on('click', '.nav-menu a[href^="#"]', function (e) {
     var target = $($(this).attr('href'));
     if (target.length) {
@@ -108,7 +69,6 @@
   });
 
   $(function () {
-    fixHeroLayout();
     initTyped();
     initAOS();
     setActiveNav();
